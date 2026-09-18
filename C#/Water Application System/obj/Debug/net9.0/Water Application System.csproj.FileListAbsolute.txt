@@ -1,0 +1,14 @@
+D:\Coding\C#\Water Application System\bin\Debug\net9.0\Water Application System.exe
+D:\Coding\C#\Water Application System\bin\Debug\net9.0\Water Application System.deps.json
+D:\Coding\C#\Water Application System\bin\Debug\net9.0\Water Application System.runtimeconfig.json
+D:\Coding\C#\Water Application System\bin\Debug\net9.0\Water Application System.dll
+D:\Coding\C#\Water Application System\bin\Debug\net9.0\Water Application System.pdb
+D:\Coding\C#\Water Application System\obj\Debug\net9.0\Water Application System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\Water Application System\obj\Debug\net9.0\Water Application System.AssemblyInfoInputs.cache
+D:\Coding\C#\Water Application System\obj\Debug\net9.0\Water Application System.AssemblyInfo.cs
+D:\Coding\C#\Water Application System\obj\Debug\net9.0\Water Application System.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Water Application System\obj\Debug\net9.0\Water Application System.dll
+D:\Coding\C#\Water Application System\obj\Debug\net9.0\refint\Water Application System.dll
+D:\Coding\C#\Water Application System\obj\Debug\net9.0\Water Application System.pdb
+D:\Coding\C#\Water Application System\obj\Debug\net9.0\Water Application System.genruntimeconfig.cache
+D:\Coding\C#\Water Application System\obj\Debug\net9.0\ref\Water Application System.dll

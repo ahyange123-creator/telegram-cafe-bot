@@ -1,0 +1,14 @@
+D:\Coding\C#\Salary Tax Application System Exercise\bin\Debug\net9.0\Salary Tax Application System Exercise.exe
+D:\Coding\C#\Salary Tax Application System Exercise\bin\Debug\net9.0\Salary Tax Application System Exercise.deps.json
+D:\Coding\C#\Salary Tax Application System Exercise\bin\Debug\net9.0\Salary Tax Application System Exercise.runtimeconfig.json
+D:\Coding\C#\Salary Tax Application System Exercise\bin\Debug\net9.0\Salary Tax Application System Exercise.dll
+D:\Coding\C#\Salary Tax Application System Exercise\bin\Debug\net9.0\Salary Tax Application System Exercise.pdb
+D:\Coding\C#\Salary Tax Application System Exercise\obj\Debug\net9.0\Salary Tax Application System Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\Salary Tax Application System Exercise\obj\Debug\net9.0\Salary Tax Application System Exercise.AssemblyInfoInputs.cache
+D:\Coding\C#\Salary Tax Application System Exercise\obj\Debug\net9.0\Salary Tax Application System Exercise.AssemblyInfo.cs
+D:\Coding\C#\Salary Tax Application System Exercise\obj\Debug\net9.0\Salary Tax Application System Exercise.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Salary Tax Application System Exercise\obj\Debug\net9.0\Salary Tax Application System Exercise.dll
+D:\Coding\C#\Salary Tax Application System Exercise\obj\Debug\net9.0\refint\Salary Tax Application System Exercise.dll
+D:\Coding\C#\Salary Tax Application System Exercise\obj\Debug\net9.0\Salary Tax Application System Exercise.pdb
+D:\Coding\C#\Salary Tax Application System Exercise\obj\Debug\net9.0\Salary Tax Application System Exercise.genruntimeconfig.cache
+D:\Coding\C#\Salary Tax Application System Exercise\obj\Debug\net9.0\ref\Salary Tax Application System Exercise.dll

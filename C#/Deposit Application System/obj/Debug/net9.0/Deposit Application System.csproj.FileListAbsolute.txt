@@ -1,0 +1,14 @@
+D:\Coding\C#\Deposit Application System\bin\Debug\net9.0\Deposit Application System.exe
+D:\Coding\C#\Deposit Application System\bin\Debug\net9.0\Deposit Application System.deps.json
+D:\Coding\C#\Deposit Application System\bin\Debug\net9.0\Deposit Application System.runtimeconfig.json
+D:\Coding\C#\Deposit Application System\bin\Debug\net9.0\Deposit Application System.dll
+D:\Coding\C#\Deposit Application System\bin\Debug\net9.0\Deposit Application System.pdb
+D:\Coding\C#\Deposit Application System\obj\Debug\net9.0\Deposit Application System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\Deposit Application System\obj\Debug\net9.0\Deposit Application System.AssemblyInfoInputs.cache
+D:\Coding\C#\Deposit Application System\obj\Debug\net9.0\Deposit Application System.AssemblyInfo.cs
+D:\Coding\C#\Deposit Application System\obj\Debug\net9.0\Deposit Application System.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Deposit Application System\obj\Debug\net9.0\Deposit Application System.dll
+D:\Coding\C#\Deposit Application System\obj\Debug\net9.0\refint\Deposit Application System.dll
+D:\Coding\C#\Deposit Application System\obj\Debug\net9.0\Deposit Application System.pdb
+D:\Coding\C#\Deposit Application System\obj\Debug\net9.0\Deposit Application System.genruntimeconfig.cache
+D:\Coding\C#\Deposit Application System\obj\Debug\net9.0\ref\Deposit Application System.dll

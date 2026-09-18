@@ -1,0 +1,14 @@
+D:\Coding\C#\Score Management System\bin\Debug\net9.0\Score Management System.exe
+D:\Coding\C#\Score Management System\bin\Debug\net9.0\Score Management System.deps.json
+D:\Coding\C#\Score Management System\bin\Debug\net9.0\Score Management System.runtimeconfig.json
+D:\Coding\C#\Score Management System\bin\Debug\net9.0\Score Management System.dll
+D:\Coding\C#\Score Management System\bin\Debug\net9.0\Score Management System.pdb
+D:\Coding\C#\Score Management System\obj\Debug\net9.0\Score Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\Score Management System\obj\Debug\net9.0\Score Management System.AssemblyInfoInputs.cache
+D:\Coding\C#\Score Management System\obj\Debug\net9.0\Score Management System.AssemblyInfo.cs
+D:\Coding\C#\Score Management System\obj\Debug\net9.0\Score Management System.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Score Management System\obj\Debug\net9.0\Score Management System.dll
+D:\Coding\C#\Score Management System\obj\Debug\net9.0\refint\Score Management System.dll
+D:\Coding\C#\Score Management System\obj\Debug\net9.0\Score Management System.pdb
+D:\Coding\C#\Score Management System\obj\Debug\net9.0\Score Management System.genruntimeconfig.cache
+D:\Coding\C#\Score Management System\obj\Debug\net9.0\ref\Score Management System.dll

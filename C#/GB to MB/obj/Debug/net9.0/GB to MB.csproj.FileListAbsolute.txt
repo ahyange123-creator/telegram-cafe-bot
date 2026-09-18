@@ -1,0 +1,14 @@
+D:\Coding\C#\GB to MB\bin\Debug\net9.0\GB to MB.exe
+D:\Coding\C#\GB to MB\bin\Debug\net9.0\GB to MB.deps.json
+D:\Coding\C#\GB to MB\bin\Debug\net9.0\GB to MB.runtimeconfig.json
+D:\Coding\C#\GB to MB\bin\Debug\net9.0\GB to MB.dll
+D:\Coding\C#\GB to MB\bin\Debug\net9.0\GB to MB.pdb
+D:\Coding\C#\GB to MB\obj\Debug\net9.0\GB to MB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\GB to MB\obj\Debug\net9.0\GB to MB.AssemblyInfoInputs.cache
+D:\Coding\C#\GB to MB\obj\Debug\net9.0\GB to MB.AssemblyInfo.cs
+D:\Coding\C#\GB to MB\obj\Debug\net9.0\GB to MB.csproj.CoreCompileInputs.cache
+D:\Coding\C#\GB to MB\obj\Debug\net9.0\GB to MB.dll
+D:\Coding\C#\GB to MB\obj\Debug\net9.0\refint\GB to MB.dll
+D:\Coding\C#\GB to MB\obj\Debug\net9.0\GB to MB.pdb
+D:\Coding\C#\GB to MB\obj\Debug\net9.0\GB to MB.genruntimeconfig.cache
+D:\Coding\C#\GB to MB\obj\Debug\net9.0\ref\GB to MB.dll

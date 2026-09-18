@@ -1,0 +1,14 @@
+D:\Coding\C#\secondclassC#\bin\Debug\net9.0\secondclassC#.exe
+D:\Coding\C#\secondclassC#\bin\Debug\net9.0\secondclassC#.deps.json
+D:\Coding\C#\secondclassC#\bin\Debug\net9.0\secondclassC#.runtimeconfig.json
+D:\Coding\C#\secondclassC#\bin\Debug\net9.0\secondclassC#.dll
+D:\Coding\C#\secondclassC#\bin\Debug\net9.0\secondclassC#.pdb
+D:\Coding\C#\secondclassC#\obj\Debug\net9.0\secondclassC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\secondclassC#\obj\Debug\net9.0\secondclassC#.AssemblyInfoInputs.cache
+D:\Coding\C#\secondclassC#\obj\Debug\net9.0\secondclassC#.AssemblyInfo.cs
+D:\Coding\C#\secondclassC#\obj\Debug\net9.0\secondclassC#.csproj.CoreCompileInputs.cache
+D:\Coding\C#\secondclassC#\obj\Debug\net9.0\secondclassC#.dll
+D:\Coding\C#\secondclassC#\obj\Debug\net9.0\refint\secondclassC#.dll
+D:\Coding\C#\secondclassC#\obj\Debug\net9.0\secondclassC#.pdb
+D:\Coding\C#\secondclassC#\obj\Debug\net9.0\secondclassC#.genruntimeconfig.cache
+D:\Coding\C#\secondclassC#\obj\Debug\net9.0\ref\secondclassC#.dll

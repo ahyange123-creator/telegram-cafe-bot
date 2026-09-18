@@ -1,0 +1,14 @@
+D:\Coding\C#\21AUG2026\bin\Debug\net9.0\21AUG2026.exe
+D:\Coding\C#\21AUG2026\bin\Debug\net9.0\21AUG2026.deps.json
+D:\Coding\C#\21AUG2026\bin\Debug\net9.0\21AUG2026.runtimeconfig.json
+D:\Coding\C#\21AUG2026\bin\Debug\net9.0\21AUG2026.dll
+D:\Coding\C#\21AUG2026\bin\Debug\net9.0\21AUG2026.pdb
+D:\Coding\C#\21AUG2026\obj\Debug\net9.0\21AUG2026.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\21AUG2026\obj\Debug\net9.0\21AUG2026.AssemblyInfoInputs.cache
+D:\Coding\C#\21AUG2026\obj\Debug\net9.0\21AUG2026.AssemblyInfo.cs
+D:\Coding\C#\21AUG2026\obj\Debug\net9.0\21AUG2026.csproj.CoreCompileInputs.cache
+D:\Coding\C#\21AUG2026\obj\Debug\net9.0\21AUG2026.dll
+D:\Coding\C#\21AUG2026\obj\Debug\net9.0\refint\21AUG2026.dll
+D:\Coding\C#\21AUG2026\obj\Debug\net9.0\21AUG2026.pdb
+D:\Coding\C#\21AUG2026\obj\Debug\net9.0\21AUG2026.genruntimeconfig.cache
+D:\Coding\C#\21AUG2026\obj\Debug\net9.0\ref\21AUG2026.dll
