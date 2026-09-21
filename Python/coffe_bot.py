@@ -10,8 +10,7 @@ from telegram.ext import (
 )
 
 import os  # Put this at the very top (line 1)
-
-BOT_TOKEN = os.environ.get("8882834954:AAEnof4ZGtKIlAW_nQU9PgBLYlv_b9SmJ8w")
+BOT_TOKEN = ("8882834954:AAG4oo6Vwje4WXlG6wWEj64xPhVLymcLoFw")
 
 
 class Drink:
